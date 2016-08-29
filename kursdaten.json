@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "Kurs": "Anfänger ohne Vorkenntnisse",
+        "Titel": "Kurs 1"
+    },
+    {
+        "id": 2,
+        "Kurs": "Anfänger mit Vorkenntnissen",
+        "Titel": "Kurs 2"
+    }
+]
