@@ -8,5 +8,11 @@
         "id": 2,
         "Kurs": "Anfänger mit Vorkenntnissen",
         "Titel": "Kurs 2"
+    },
+        {
+        "id": 2,
+        "Kurs": "Anfänger mit Vorkenntnissen",
+        "Titel": "Kurs 2"
     }
+
 ]
